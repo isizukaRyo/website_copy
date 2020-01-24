@@ -118,15 +118,14 @@ article {
 }
 
 .container {
-	width: 100%;
+	width: 80%;
+	display: flex;
+	margin: 0 auto;
 
 }
 
 main {
-	width: 50%;
-	float: left;
-	margin-left: 140px;
-
+	width: 85%;
 }
 
 .box1 {
@@ -396,11 +395,8 @@ main {
 }
 
 side {
-	width: 22%;
-	float: left;
-	margin-left: 115px;
-
-
+	width: 30%;
+	margin-left: 2em;
 }
 
 .side1_box {
